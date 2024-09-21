@@ -291,6 +291,9 @@ section.hero{
   .left-last .statistics{
     flex-direction: column;
   }
+  .statistic-card h3, .statistic-card p{
+  text-align: center;
+}
 }
 .statistics .statistic-card{
   gap: 13px;
