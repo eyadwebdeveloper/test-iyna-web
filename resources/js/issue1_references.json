@@ -1,0 +1,223 @@
+{
+    "issueNo": "1",
+    "noofArticles": "10",
+    "articles": {
+      "article1": {
+        "articleNo": "1",
+        "noofreferences": "2",
+        "references": ["[1] Stephanie Willerth, Chapter 2 - Introduction to the nervous system", "[2] S. Sharma, M.J. Majsak, Brain Anatomy, Editor(s): Michael J. Aminoff, Robert B. Daroff, Encyclopedia of the Neurological Sciences (Second Edition)."]
+      },
+      "article2": {
+        "articleNo": "2",
+        "noofreferences": "8",
+        "references": [
+          "[1] “What is the definition of addiction?,” Default. [Online]. Available: <a href=\"https://www.asam.org/Quality-Science/definition-of-addiction\" target=\"_blank\">https://www.asam.org/Quality-Science/definition-of-addiction</a>. [Accessed: 05-Jun-2022].",
+          "[2] C. Raypole, “Types of addiction and how they're treated,” Healthline, 28-Feb-2020. [Online]. Available: <a href=\"https://www.healthline.com/health/types-of-addiction#addiction-basics\" target=\"_blank\">https://www.healthline.com/health/types-of-addiction#addiction-basics</a>. [Accessed: 05-Jun-2022].",
+          "[3]“Therapy manuals for drug addiction. manual 1.” [Online]. Available: <a href=\"https://archives.drugabuse.gov/sites/default/files/cbt.pdf\" target=\"_blank\">https://archives.drugabuse.gov/sites/default/files/cbt.pdf</a>. [Accessed: 05-Jun-2022].",
+          "[4] G. F. Koob and E. P. Zorrilla, “Neurobiological mechanisms of addiction: Focus on Corticotropin-releasing factor,” Current opinion in investigational drugs (London, England : 2000), Jan-2010. [Online]. Available: <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2812895/\" target=\"_blank\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2812895/</a>. [Accessed: 05-Jun-2022].",
+          "[5] “Substance Abuse / Chemical Dependency,” Johns Hopkins Medicine, 19-Nov-2019. [Online]. Available: <a href=\"https://www.hopkinsmedicine.org/health/conditions-and-diseases/substance-abuse-chemical-dependency\" target=\"_blank\">https://www.hopkinsmedicine.org/health/conditions-and-diseases/substance-abuse-chemical-dependency</a>. [Accessed: 05-Jun-2022].",
+          "[6] J. E. Grant, M. N. Potenza, A. Weinstein, and D. A. Gorelick, “Introduction to behavioral addictions,” Am. J. Drug Alcohol Abuse, vol. 36, no. 5, pp. 233–241, 2010.",
+          "[7] “Addiction treatment: First steps, types, and medications,” Medical News Today. [Online]. Available: <a href=\"https://www.medicalnewstoday.com/articles/323468#medications\" target=\"_blank\">https://www.medicalnewstoday.com/articles/323468#medications</a>. [Accessed: 05-Jun-2022].",
+          "[8] “Rat park substance use experiment -,” Lifeline Connections, 22-Jan-2015. [Online]. Available: <a href=\"https://lifelineconnections.org/rat-park-importance-good-mental-health/\" target=\"_blank\">https://lifelineconnections.org/rat-park-importance-good-mental-health/</a>. [Accessed: 05-Jun-2022]."
+        ]
+      },
+      "article3": {
+        "articleNo": "3",
+        "noofreferences": "6",
+        "references": [
+          "[1] M. Naoi and W. Maruyama, \"Cell death of dopamine neurons in aging and Parkinson’s disease\", Mechanisms of Ageing and Development, vol. 111, no. 2-3, pp. 175-188, 1999. Available: 10.1016/s0047-6374(99)00064-0 [Accessed 9 October 2021].",
+          "[2] A. Kouli, K. Torsney and W. Kuan, \"Parkinson’s Disease: Etiology, Neuropathology, and Pathogenesis\", Parkinson’s Disease: Pathogenesis and Clinical Aspects, pp. 3-26, 2018. Available: 10.15586/codonpublications.parkinsonsdisease.2018.ch1 [Accessed 9 October 2021].",
+          "[3] W. Poewe, \"Non-motor symptoms in Parkinson’s disease\", European Journal of Neurology, vol. 15, no. 1, pp. 14-20, 2008. Available: 10.1111/j.1468-1331.2008.02056.x [Accessed 9 October 2021].",
+          "[4] Zahoor I, Shafi A, Haq E. Pharmacological Treatment of Parkinson’s Disease. In: Stoker TB, Greenland JC, editors. Parkinson’s Disease: Pathogenesis and Clinical Aspects [Internet]. Brisbane (AU): Codon Publications; 2018 Dec 21. Chapter 7. Available from: <a href=\"https://www.ncbi.nlm.nih.gov/books/NBK536726/\" target=\"_blank\">https://www.ncbi.nlm.nih.gov/books/NBK536726/</a>",
+          "[5] W. Maruyama, P. Dostert, K. Matsubara and M. Naoi, \"N-methyl(r)salsolinol produces hydroxyl radicals: Involvement to neurotoxicity\", Free Radical Biology and Medicine, vol. 19, no. 1, pp. 67-75, 1995. Available: 10.1016/0891-5849(95)00013-n.",
+          "[6] H. Braak, K. Tredici, U. Rüb, R. de Vos, E. Jansen Steur and E. Braak, \"Staging of brain pathology related to sporadic Parkinson’s disease\", Neurobiology of Aging, vol. 24, no. 2, pp. 197-211, 2003. Available: 10.1016/s0197-4580(02)00065-9."
+        ]
+      },
+      "article4": {
+        "articleNo": "4",
+        "noofreferences": "29",
+        "references": [
+          "[1] Kouli A, Torsney KM, Kuan W-L. Parkinson’s Disease: Etiology, Neuropathology, and Pathogenesis. In: Stoker TB, Greenland JC, editors. Parkinson’s Disease: Pathogenesis and Clinical Aspects [Internet]. Brisbane (AU): Codon Publications; 2018 [cited 2021 Jul 1]. Available from: <a href=\"http://www.ncbi.nlm.nih.gov/books/NBK536722/\" target=\"_blank\">http://www.ncbi.nlm.nih.gov/books/NBK536722/</a>",
+          "[2] Lee H-J, Bae E-J, Lee S-J. Extracellular α-- synuclein-a novel and crucial factor in Lewy body diseases. Nat Rev Neurol. 2014 Feb;10(2):92–8.",
+          "[3] Singleton AB, Farrer M, Johnson J, Singleton A, Hague S, Kachergus J, et al. alpha-Synuclein locus triplication causes Parkinson’s disease. Science. 2003 Oct 31;302(5646):841.",
+          "[4] Tansey MG, Goldberg MS. Neuroinflammation in Parkinson’s disease: its role in neuronal death and implications for therapeutic intervention. Neurobiol Dis. 2010 Mar;37(3):510–8.",
+          "[5] Van der Perren A, Macchi F, Toelen J, Carlon MS, Maris M, de Loor H, et al. FK506 reduces neuroinflammation and dopaminergic neurodegeneration in an α-synuclein-based rat model for Parkinson’s disease. Neurobiol Aging. 2015 Mar;36(3):1559–68. ",
+          "[6] Bronstein JM, Tagliati M, Alterman RL, Lozano AM, Volkmann J, Stefani A, et al. Deep brain stimulation for Parkinson disease: an expert consensus and review of key issues. Arch Neurol. 2011 Feb;68(2):165.",
+          "[7] Radhakrishnan DM, Goyal V. Parkinson’s disease: A review. Neurol India. 2018 Mar 1;66(7):26.",
+          "[8] Parkinson’s Disease [Internet]. National Institute on Aging. [cited 2021 Jul 1]. Available from: http://www.nia.nih.gov/health/parkinsons-disease",
+          "[9] Haile WB, Gavegnano C, Tao S, Jiang Y, Schinazi RF, Tyor WR. The Janus kinase inhibitor ruxolitinib reduces HIV replication in human macrophages and ameliorates HIV encephalitis in a murine model. Neurobiol Dis. 2016 Aug;92(Pt B):137–43.",
+          "[10] Raedler LA. Jakafi (Ruxolitinib): First FDA- Approved Medication for the Treatment of Patients   with Polycythemia Vera. Am Health Drug Benefits. 2015 Mar;8(Spec Feature):75–9.",
+          "[11] Jackson-Lewis V, Przedborski S. Protocol for the MPTP mouse model of Parkinson’s disease. Nat Protoc. 2007 Jan;2(1):141–51.",
+          "[12] Qin H, Yeh W-I, De Sarno P, Holdbrooks AT, Liu Y, Muldowney MT, et al. Signal transducer and activator of transcription-3/suppressor of cytokine signaling-3 (STAT3/SOCS3) axis in myeloid cells regulates neuroinflammation. Proc Natl Acad Sci. 2012 Mar 27;109(13):5004–9.",
+          "[13] Croisier E, Moran LB, Dexter DT, Pearce RK, Graeber MB. Microglial inflammation in the parkinsonian substantia nigra: relationship to alpha-synuclein deposition. J Neuroinflammation. 2005 Jun 3;2(1):14.",
+          "[14] Qin H, Buckley JA, Li X, Liu Y, Fox TH, Meares GP, et al. Inhibition of the JAK/STAT Pathway Protects Against α-Synuclein-Induced Neuroinflammation and Dopaminergic Neurodegeneration. J Neurosci. 2016 May 4;36(18):5144–59.",
+          "[15] Yan Z, Gibson SA, Buckley JA, Qin H, Benveniste EN. Role of the JAK/STAT signaling pathway in regulation of innate immunity in neuroinflammatory diseases. Clin Immunol Orlando Fla. 2018 Apr;189:4–13.",
+          "[16] Benveniste EN, Liu Y, McFarland BC, Qin H. Involvement of the Janus Kinase/Signal Transducer and Activator of Transcription Signaling Pathway in Multiple Sclerosis and the Animal Model of Experimental Autoimmune Encephalomyelitis. J Interferon Cytokine Res. 2014 Aug 1;34(8):577–88.",
+          "[17] Chen H, O’Reilly EJ, Schwarzschild MA, Ascherio A. Peripheral inflammatory biomarkers and risk of Parkinson’s disease. Am J Epidemiol. 2008 Jan 1;167(1):90–5.",
+          "[18] Decressac M, Mattsson B, Lundblad M, Weikop P, Björklund A. Progressive neurodegenerative and behavioural changes induced by AAV-mediated overexpression of α-synuclein in midbrain dopamine neurons. Neurobiol Dis. 2012 Mar 1;45(3):939–53.",
+          "[19] Riachi NJ, LaManna JC, Harik SI. Entry of 1- methyl-4-phenyl-1,2,3,6-tetrahydropyridine into the rat brain. J Pharmacol Exp Ther. 1989 Jun 1;249(3):744–8.",
+          "[20] Nicklas WJ, Youngster SK, Kindt MV, Heikkila RE. IV. MPTP, MPP+ and mitochondrial function. Life Sci. 1987 Feb 23;40(8):721–9.",
+          "[21] Lee YJ, Benveniste EN. Stat1 alpha expression is involved in IFN-gamma induction of the class II transactivator and class II MHC genes. J Immunol Baltim Md 1950. 1996 Aug 15;157(4):1559–68.",
+          "[22] Zahid H. Coffee consumption tied to lower risk of developing Parkinson’s disease: Study [Internet]. 2020 [cited 2021 Jul 1]. Available from: <a href=\"https://medicaldialogues.in/neurology-neurosurgery/news/coffee-consumption-tied-to-lower-risk-of-developing-parkinsons-disease-study-70083\" target=\"_blank\">https://medicaldialogues.in/neurology-neurosurgery/news/coffee-consumption-tied-to-lower-risk-of-developing-parkinsons-disease-study-70083</a>",
+          "[23] Basal Ganglia (Section 3, Chapter 4) Neuroscience Online: An Electronic Textbook for the Neurosciences | Department of Neurobiology and Anatomy - The University of Texas Medical School at Houston [Internet]. [cited 2021 Jul 1]. Available from: <a href=\"https://nba.uth.tmc.edu/neuroscience/m/s3/chapter04.html\" target=\"_blank\">https://nba.uth.tmc.edu/neuroscience/m/s3/chapter04.html</a>",
+          "[24] Electrophoresis [Internet]. Genome.gov. [cited 2021 Jul 1]. Available from: <a href=\"https://www.genome.gov/genetics-glossary/Electrophoresis\" target=\"_blank\">https://www.genome.gov/genetics-glossary/Electrophoresis</a>",
+          "[25] Goldman A, Ursitti JA, Mozdzanowski J, Speicher DW. Electroblotting from Polyacrylamide Gels. Curr Protoc Protein Sci. 2015;82(1):10.7.1- 10.7.16.",
+          "[26] Tong L, Warren TC, King J, Betageri R, Rose J, Jakes S. Crystal structures of the human p56lck SH2 domain in complex with two short phosphotyrosyl peptides at 1.0 A and 1.8 A resolution. J Mol Biol. 1996 Mar 1;256(3):601–10.",
+          "[27] Dodington DW, Desai HR, Woo M. JAK/STAT – Emerging Players in Metabolism. Trends Endocrinol Metab. 2018 Jan 1;29(1):55–65.",
+          "[28] Ruxolitinib (INCB18424) | JAK1/2 Inhibitor | MedChemExpress [Internet].   MedchemExpress.com. [cited 2021 Jul 1]. Available from: <a href=\"https://www.medchemexpress.com/Ruxolitinib.html\" target=\"_blank\">https://www.medchemexpress.com/Ruxolitinib.html</a>",
+          "[29] Ruxolitinib: a Kinase Inhibitor That Inhibits Overactive JAK Pathway Signaling [Internet].   Personalized Medicine in Oncology. [cited 2021 Jul 1]. Available from: <a href=\"http://www.personalizedmedonc.com/article/ruxolitinib-a-kinase-inhibitor-that-inhibits-overactive-jak-pathway-signaling/\" target=\"_blank\">http://www.personalizedmedonc.com/article/ruxolitinib-a-kinase-inhibitor-that-inhibits-overactive-jak-pathway-signaling/</a>"
+        ]
+      },
+      "article5": {
+        "articleNo": "5",
+        "noofreferences": "5",
+        "references": [
+          "[1] H. Förstl, \"Neurologic Signs in Alzheimer's Disease\", Archives of Neurology, vol. 49, no. 10, p. 1038, 1992. Available: 10.1001/archneur.1992.00530340054018 [Accessed 3 October 2021].",
+          "[2] Merriam AE, Aronson MK, Gaston P, Wey SL, Katz I.\"The Psychiatric Symptoms of Alzheimer's Disease,\" Journal of the American Geriatrics Society, vol. 36, pp. 7-22, 1988.",
+          "[3] C. Lyketsos et al., \"Neuropsychiatric symptoms in Alzheimer's disease\", 2021.",
+          "[4] E. Chou, \"Alzheimer’s Disease: Current and Future Treatments. A Review\", International Journal of Medical Students, vol. 2, no. 2, pp. 56-63, 2014. Available: 10.5195/ijms.2014.85.",
+          "[5]  M. Patterson, A. Schnell, R. Martin, M. Mendez, K. Smyth and P. Whitehouse, \"Assessment of Behavioral and Affective Symptoms in Alzheimer's Disease\", Journal of Geriatric Psychiatry and Neurology, vol. 3, no. 1, pp. 21-30, 1990. Available: 10.1177/089198879000300106 [Accessed 31 May 2022]."
+        ]
+      },
+      "article6": {
+        "articleNo": "6",
+        "noofreferences": "17",
+        "references": [
+          "[1] Scott, William K.. Heredity and Alzheimer's disease: basic findings and clinical implications. Current Opinion in Psychiatry: July 1998 - Volume 11 - Issue 4 - p 417-423.",
+          "[2] Pollen, Daniel A. Hannah's heirs: the quest for the genetic origins of Alzheimer's disease. Oxford University Press on Demand, 1996.",
+          "[3] Tom Brody Ph.D., in <a href=\"https://www.sciencedirect.com/book/9780128042175/clinical-trials\" target=\"_blank>\"Clinical Trials (Second Edition)</a>, 2016",
+          "[4] Gatz M, Reynolds CA, Fratiglioni L, et al. Role of Genes and Environments for Explaining Alzheimer Disease. Arch Gen Psychiatry. 2006;63(2):168–174. doi:10.1001/archpsyc.63.2.168",
+          "[5] Harold, D., Abraham, R., Hollingworth, P., Sims, R., Gerrish, A., Hamshere, M. L., … Williams, A. (2009). Genome-wide association study identifies variants at CLU and PICALM associated with Alzheimer’s disease. Nature Genetics, 41(10), 1088–1093. doi:10.1038/ng.440",
+          "[6] Rao, A. T., A. J. Degnan, and L. M. Levy. \"Genetics of Alzheimer disease.\" American Journal of Neuroradiology 35.3 (2014): 457-458.",
+          "[7] Janus, Christopher, and David Westaway. \"Transgenic mouse models of Alzheimer's disease.\" Physiology & behavior 73.5 (2001): 873-886.",
+          "[8] Escott-Price, Valentina, and John Hardy. \"Genome-wide association studies for Alzheimer’s disease: bigger is not always better.\" Brain Communications 4.3 (2022): fcac125.",
+          "[9] Senior, Kathryn. \"Dosing in phase II trial of Alzheimer's vaccine suspended.\" The Lancet Neurology 1.1 (2002): 3.",
+          "[10] Schneeberger, A., et al. \"Development of AFFITOPE vaccines for Alzheimer’s disease (AD)—from concept to clinical testing.\" JNHA-The Journal of Nutrition, Health and Aging 13.3 (2009): 264-267.",
+          "[11] Honig, Lawrence S., et al. \"Trial of solanezumab for mild dementia due to Alzheimer’s disease.\" New England Journal of Medicine 378.4 (2018): 321-330.",
+          "[12] Abbott, A., & Dolgin, E. (2016). Failed Alzheimer’s trial does not kill leading theory of disease. Nature, 540(7631), 15–16. doi:10.1038/nature.2016.21045    (solanezumab)",
+          "[13] Budd Haeberlein S, O'Gorman J, Chiao P, et al. Clinical Development of Aducanumab, an Anti-Aβ Human Monoclonal Antibody Being Investigated for the Treatment of Early Alzheimer's Disease. The Journal of Prevention of Alzheimer's Disease. 2017 ;4(4):255-263. DOI: 10.14283/jpad.2017.39. PMID: 29181491.",
+          "[14] <a href=\"https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUFkblVmM3llcDNXMnZfWkZUTWktRzZTWThVd3xBQ3Jtc0trQjJYV3dQUFRoMEFmdTNBbENNUlVqa0Q4a3Y3UVdXOTBGdldoNFQ4RENERVhSY2F1bXFISnQzSU9uOEsxZkp5b2NzUnozNjR2UG1qTHVfV3ltcXRUNzVHTU1vSi1wOEVrUF9VVTZKcm5fMUFQYUgzNA&q=http%3A%2F%2Fwww.cell.com%2Fneuron%2Ffulltext%2FS0896-6273%2818%2930421-5&v=Ha3JdNofoy8\" target=\"_blank\">https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUFkblVmM3llcDNXMnZfWkZUTWktRzZTWThVd3xBQ3Jtc0trQjJYV3dQUFRoMEFmdTNBbENNUlVqa0Q4a3Y3UVdXOTBGdldoNFQ4RENERVhSY2F1bXFISnQzSU9uOEsxZkp5b2NzUnozNjR2UG1qTHVfV3ltcXRUNzVHTU1vSi1wOEVrUF9VVTZKcm5fMUFQYUgzNA&q=http%3A%2F%2Fwww.cell.com%2Fneuron%2Ffulltext%2FS0896-6273%2818%2930421-5&v=Ha3JdNofoy8</a>",
+          "[15] <a href=\"https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDd3bmp0WVI3UVpRU2VxMnliV3dKb2F3MVA5d3xBQ3Jtc0tsc2ZPbUZ0NFgza050cVR1M3A3d0VDcDFiV25WQlBQZ3RUOGotQmtTZ3ZVamVzQlZXWFZvc1lZR202TFJ1NU1GR2V6MHEzTFI5YTVESGpyRElLRzJYZ2hhLXRYejA3Q3BhZVM5UkhjRmJ1UjltbWhuRQ&q=https%3A%2F%2Fwww.nature.com%2Farticles%2Fnrd3505&v=Ha3JdNofoy8\" target=\"_blank\">https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDd3bmp0WVI3UVpRU2VxMnliV3dKb2F3MVA5d3xBQ3Jtc0tsc2ZPbUZ0NFgza050cVR1M3A3d0VDcDFiV25WQlBQZ3RUOGotQmtTZ3ZVamVzQlZXWFZvc1lZR202TFJ1NU1GR2V6MHEzTFI5YTVESGpyRElLRzJYZ2hhLXRYejA3Q3BhZVM5UkhjRmJ1UjltbWhuRQ&q=https%3A%2F%2Fwww.nature.com%2Farticles%2Fnrd3505&v=Ha3JdNofoy8</a>",
+          "[16] Balin, B. J., & Hudson, A. P. (2018). Herpes viruses and Alzheimer’s disease: new evidence in the debate. The Lancet Neurology, 17(10), 839–841. doi:10.1016/s1474-4422(18)30316-8",
+          "[17] Balin, Brian J., and Alan P. Hudson. \"Herpes viruses and Alzheimer's disease: new evidence in the debate.\" The Lancet Neurology 17.10 (2018): 839-841."
+        ]
+      },
+      "article7": {
+        "articleNo": "7",
+        "noofreferences": "6",
+        "references": [
+          "[1] Lunn, J., Sakowski, S., Hur, J. and Feldman, E., 2021. Stem cell technology for neurodegenerative diseases. [online] Available at: <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3177143/\" target=\"_blank\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3177143/</a>",
+          "[2] J. Clin. Invest.120:29–40 (2010). doi:10.1172/JCI40543     <a href=\"https://www.jci.org/articles/view/40543#ACK\" target=\"_blank\">https://www.jci.org/articles/view/40543#ACK</a>",
+          "[3] Mayo Clinic. 2021. Frequently asked questions about stem cell research. [online] Available at: <a href=\"https://www.mayoclinic.org/tests-procedures/bone-marrow-transplant/in-depth/stem-cells/art-20048117\" target=\"_blank\">https://www.mayoclinic.org/tests-procedures/bone-marrow-transplant/in-depth/stem-cells/art-20048117</a>",
+          "[4] Healthline. 2021. Stem Cell Research: Uses, Types & Examples. [online] Available at: <a href=\"https://www.healthline.com/health/stem-cell-research#research\" target=\"_blank\">https://www.healthline.com/health/stem-cell-research#research</a>",
+          "[5] Lunn, J., Sakowski, S., Hur, J. and Feldman, E., 2021. Stem cell technology for neurodegenerative diseases. [online] Available at: <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3177143/\" target=\"_blank\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3177143/</a>",
+          "[6] Hanyang Med Rev. 2015 Nov;35(4):229-235. English. Published online November 24, 2015."
+        ]
+      },
+      "article8": {
+        "articleNo": "8",
+        "noofreferences": "31",
+        "references": [
+          "[1] Brain anatomy and how the brain works. Johns Hopkins Medicine. (2021, July 14). Retrieved August 2, 2022, from <a href=\"https://www.hopkinsmedicine.org/health/conditions-and-diseases/anatomy-of-the-brain\" target=\"_blank\">https://www.hopkinsmedicine.org/health/conditions-and-diseases/anatomy-of-the-brain</a>",
+          "[2] Music. Cambridge Dictionary. (n.d.). Retrieved August 2, 2022, from <a href=\"https://dictionary.cambridge.org/dictionary/english/music\" target=\"_blank\">https://dictionary.cambridge.org/dictionary/english/music</a>",
+          "[3] Music and the brain: What happens when you listen to music. Pegasus Magazine. (n.d.). Retrieved August 2, 2022, from <a href=\"https://www.ucf.edu/pegasus/your-brain-on-music/\" target=\"_blank\">https://www.ucf.edu/pegasus/your-brain-on-music/</a>",
+          "[4] Copyright 2004 scientific American, Inc.. (n.d.). Retrieved August 2, 2022.",
+          "[5] Jeneson, A., & Squire, L. R. (2011). Working memory, long-term memory, and medial temporal lobe function. Learning & Memory, 19(1), 15–25. <a href=\"https://doi.org/10.1101/lm.024018.111\" target=\"_blank\">https://doi.org/10.1101/lm.024018.111</a>",
+          "[6] Hub. Sci. (n.d.). Retrieved August 2, 2022, from <a href=\"https://sci-hub.mksa.top/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4953706/\" target=\"_blank\">https://sci-hub.mksa.top/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4953706/</a>",
+          "[7] Olucha-Bordonau, F. E., Fortes-Marco, L., Otero-García, M., Lanuza, E., & Martínez-García, F. (2015). Amygdala. The Rat Nervous System, 441–490. <a href=\"https://doi.org/10.1016/b978-0-12-374245-2.00018-8\" target=\"_blank\">https://doi.org/10.1016/b978-0-12-374245-2.00018-8</a>",
+          "[8] Gosselin, N., Peretz, I., Johnsen, E., & Adolphs, R. (2007). Amygdala damage impairs emotional recognition of music. Neuropsychologia, 45(2), 236–244. <a href=\"https://doi.org/10.1016/j.neuropsychologia.2006.07.012\" target=\"_blank\">https://doi.org/10.1016/j.neuropsychologia.2006.07.012</a>",
+          "[9] Middleton, F. (1998). The cerebellum: An overview. Trends in Neurosciences, 21(9), 367–369. <a href=\"https://doi.org/10.1016/s0166-2236(98)01330-7\" target=\"_blank\">https://doi.org/10.1016/s0166-2236(98)01330-7</a>",
+          "[10] Khorram-Sefat, D., Dierks, T., Herminghaus, S., & Hacker, H. (1997, January 1). fMRI correlates of music listening cortical-cerebellar activation pattern. Psychiatry Research: Neuroimaging. Retrieved August 3, 2022, from <a href=\"https://www.infona.pl/resource/bwmeta1.element.elsevier-03c8e581-aa68-3608-8148-f5ff88c157cc\" target=\"_blank\">https://www.infona.pl/resource/bwmeta1.element.elsevier-03c8e581-aa68-3608-8148-f5ff88c157cc</a>",
+          "[11] Eichenbaum, H., Otto, T., & Cohen, N. J. (1992). The hippocampus—what does it do? Behavioural and Neural Biology, 57(1), 2–36. <a href=\"https://doi.org/10.1016/0163-1047(92)90724-i\" target=\"_blank\">https://doi.org/10.1016/0163-1047(92)90724-i</a>",
+          "[12] Watanabe, T., Yagishita, S., & Kikyo, H. (2008). Memory of music: Roles of right hippocampus and left inferior frontal gyrus. NeuroImage, 39(1), 483–491. <a href=\"https://doi.org/10.1016/j.neuroimage.2007.08.024\" target=\"_blank\">https://doi.org/10.1016/j.neuroimage.2007.08.024</a>",
+          "[13] Ferreri, L., Mas‐Herrero, E., Cardona, G., Zatorre, R. J., Antonijoan, R. M., Valle, M., Riba, J., Ripollés, P., & Rodriguez‐Fornells, A. (2021). Dopamine modulations of reward‐driven music memory consolidation. Annals of the New York Academy of Sciences, 1502(1), 85–98. <a href=\"https://doi.org/10.1111/nyas.14656\" target=\"_blank\">https://doi.org/10.1111/nyas.14656</a>",
+          "[14] Sutoo, D., & Akiyama, K. (2004). Music improves dopaminergic neurotransmission: Demonstration based on the effect of music on Blood Pressure Regulation. Brain Research, 1016(2), 255–262. <a href=\"https://doi.org/10.1016/j.brainres.2004.05.018\" target=\"_blank\">https://doi.org/10.1016/j.brainres.2004.05.018</a>",
+          "[15] Shih, Y.-N., Huang, R.-H., & Chiang, H.-Y. (2012). Background music: Effects on attention performance. Work, 42(4), 573–578. <a href=\"https://doi.org/10.3233/wor-2012-1410\" target=\"_blank\">https://doi.org/10.3233/wor-2012-1410</a>",
+          "[16] Ferreri, L., Bigand, E., & Bugaiska, A. (2015). The positive effect of music on source memory. Musicae Scientiae, 19(4), 402–411. <a href=\"https://doi.org/10.1177/1029864915604684\" target=\"_blank\">https://doi.org/10.1177/1029864915604684</a>",
+          "[17] Music therapy. Physical Medicine & Rehabilitation, Chang Gung Memorial Hospital, Taipei. (n.d.). Retrieved August 4, 2022, from <a href=\"https://www1.cgmh.org.tw/intr/intr2/c3390/en/music-therapy.htm\" target=\"_blank\">https://www1.cgmh.org.tw/intr/intr2/c3390/en/music-therapy.htm</a>",
+          "[18] Lord, C., Elsabbagh, M., Baird, G., & Veenstra-Vanderweele, J. (2018, August 2). Autism spectrum disorder. The Lancet. Retrieved August 4, 2022, from <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0140673618311292\" target=\"_blank\">https://www.sciencedirect.com/science/article/abs/pii/S0140673618311292</a>",
+          "[19] Hub: Music therapy for people with autism spectrum disorder. Cochrane Database of Systematic Reviews: 10.1002/14651858.CD004381.pub3. Sci. (n.d.). Retrieved August 4, 2022, from <a href=\"https://sci-hub.mksa.top/https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004381.pub3/abstract\" target=\"_blank\">https://sci-hub.mksa.top/https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004381.pub3/abstract</a>",
+          "[20] Bush, A. I. (2003). The metallobiology of Alzheimer's disease. Trends in Neurosciences, 26(4), 207–214. <a href=\"https://doi.org/10.1016/s0166-2236(03)00067-5\" target=\"_blank\">https://doi.org/10.1016/s0166-2236(03)00067-5</a>",
+          "[21] Fukui, H., Arai, A., & Toyoshima, K. (2012, September 26). Efficacy of music therapy in treatment for patients with Alzheimer's disease. International Journal of Alzheimer's Disease. Retrieved August 4, 2022, from <a href=\"https://www.hindawi.com/journals/IJAD/2012/531646/\" target=\"_blank\">https://www.hindawi.com/journals/IJAD/2012/531646/</a>",
+          "[22] Brotons, M., & Pickett-Cooper, P. K. (1996, March 1). Effects of music therapy intervention on agitation behaviors of Alzheimer's disease patients*. OUP Academic. Retrieved August 4, 2022, from <a href=\"https://academic.oup.com/jmt/article-abstract/33/1/2/916222\" target=\"_blank\">https://academic.oup.com/jmt/article-abstract/33/1/2/916222</a>",
+          "[23] Magill-Levreault, L. (1993). Music therapy in pain and symptom management. Journal of Palliative Care, 9(4), 42–48. <a href=\"https://doi.org/10.1177/082585979300900411\" target=\"_blank\">https://doi.org/10.1177/082585979300900411</a>",
+          "[24] Korhan, E. A., Uyar, M., Eyigör, C., Yönt, G. H., Çelik, S., & Khorshıd, L. (2013, January 31). The effects of music therapy on pain in patients with neuropathic pain. Pain Management Nursing. Retrieved August 4, 2022, from <a href=\"https://www.sciencedirect.com/science/article/pii/S1524904212001749\" target=\"_blank\">https://www.sciencedirect.com/science/article/pii/S1524904212001749</a>",
+          "[25] Selm, M. E. (1991, January 1). Chronic pain: Three issues in treatment and implications for music therapy. OUP Academic. Retrieved August 4, 2022, from <a href=\"https://academic.oup.com/mtp/article-abstract/9/1/91/1075071\" target=\"_blank\">https://academic.oup.com/mtp/article-abstract/9/1/91/1075071</a>",
+          "[26] DINGLE, G. E. N. E. V. I. E. V. E. A., GLEADHILL, L. I. B. B. Y., & BAKER, F. E. L. I. C. I. T. Y. A. (2008). Can music therapy engage patients in group cognitive behavior therapy for substance abuse treatment? Drug and Alcohol Review, 27(2), 190–196. <a href=\"https://doi.org/10.1080/09595230701829371\" target=\"_blank\">https://doi.org/10.1080/09595230701829371</a>",
+          "[27] Aletraris, L., Paino, M., Edmond, M. B., Roman, P. M., & Bride, B. E. (2014). The use of art and music therapy in Substance Abuse Treatment Programs. Journal of addictions nursing. Retrieved August 4, 2022, from <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4268880/\" target=\"_blank\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4268880/</a>",
+          "[28] MD, C. L. (2019, March 22). Data on Music Therapy & Depression: Visualized Health. clearvuehealth.com. Retrieved August 4, 2022, from <a href=\"https://www.clearvuehealth.com/b/music-therapy-depression/\" target=\"_blank\">https://www.clearvuehealth.com/b/music-therapy-depression/</a>",
+          "[29] Embedding Music and music therapy interventions in Dementia Care Pathways: Research Trends, clinical practice and policy in the 21st Century. Music, Mind & Brain @ Goldsmiths. (2019, May 12). Retrieved August 4, 2022, from <a href=\"https://musicmindandbrain.wordpress.com/2019/05/12/embedding-music-and-music-therapy-interventions-in-dementia-care-pathways-research-trends-clinical-practice-and-policy-in-the-21st-century/\" target=\"_blank\">https://musicmindandbrain.wordpress.com/2019/05/12/embedding-music-and-music-therapy-interventions-in-dementia-care-pathways-research-trends-clinical-practice-and-policy-in-the-21st-century/</a>",
+          "[30] Illustration of follow-up ad patients results in absolute numbers ... (n.d.). Retrieved August 4, 2022, from <a href=\"https://www.researchgate.net/figure/Illustration-of-follow-up-AD-patients-results-in-absolute-numbers-before-and-af-ter_tbl1_351948858\" target=\"_blank\">https://www.researchgate.net/figure/Illustration-of-follow-up-AD-patients-results-in-absolute-numbers-before-and-af-ter_tbl1_351948858</a>",
+          "[31] Figure 2: Difference between baseline, pre-test, and post ... - researchgate. (n.d.). Retrieved August 4, 2022, from <a href=\"https://www.researchgate.net/figure/Difference-between-baseline-pre-test-and-post-test-outcome-variables-by-using-repeated_fig3_322546427\" target=\"_blank\">https://www.researchgate.net/figure/Difference-between-baseline-pre-test-and-post-test-outcome-variables-by-using-repeated_fig3_322546427</a>"
+        ]
+      },
+      "article9": {
+        "articleNo": "9",
+        "noofreferences": "47",
+        "references": [
+          "[1] Cole, M. W., & Schneider, W. (2007). The cognitive control network: Integrated cortical regions with dissociable functions.",
+          "[2] Greicius, M. D., Flores, B. H., Menon, V., Glover, G. H., Solvason, H. B., Kenna, H., Schatzberg, A. F. (2007). Resting-state functional connectivity in major depression: Abnormally increased contributions from subgenual cingulate cortex and thalamus. Biological Psychiatry, 62, 429–437.",
+          "[3] D. H. Schultz et al., ‘Global connectivity of the fronto-parietal cognitive control network is related to depression symptoms in the general population’, Netw. Neurosci. Camb. Mass, vol. 3, no. 1, pp. 107–123, 2019, doi: 10.1162/netn_a_00056.",
+          "[4] M. W. Cole, G. Repovš, and A. Anticevic, ‘The frontoparietal control system: a central role in mental health’, Neurosci. Rev. J. Bringing Neurobiol. Neurol. Psychiatry, vol. 20, no. 6, pp. 652–664, Dec. 2014, doi: 10.1177/1073858414525995.",
+          "[5] M. W. Cole, J. R. Reynolds, J. D. Power, G. Repovs, A. Anticevic, and T. S. Braver, ‘Multi-task connectivity reveals flexible hubs for adaptive task control’, Nat. Neurosci., vol. 16, no. 9, pp. 1348–1355, Sep. 2013, doi: 10.1038/nn.3470.",
+          "[6] R. H. Kaiser, J. R. Andrews-Hanna, T. D. Wager, and D. A. Pizzagalli, ‘Large-Scale Network Dysfunction in Major Depressive Disorder: A Meta-analysis of Resting-State Functional Connectivity’, JAMA Psychiatry, vol. 72, no. 6, pp. 603–611, Jun. 2015, doi: 10.1001/jamapsychiatry.2015.0071.",
+          "[7] J. T. Baker et al., ‘Disruption of Cortical Association Networks in Schizophrenia and Psychotic Bipolar Disorder’, JAMA Psychiatry, vol. 71, no. 2, p. 109, Feb. 2014, doi: 10.1001/jamapsychiatry.2013.3469.",
+          "[8] G. J. Yang et al., ‘Functional hierarchy underlies preferential connectivity disturbances in schizophrenia’, Proc. Natl. Acad. Sci. U. S. A., vol. 113, no. 2, pp. E219-228, Jan. 2016, doi: 10.1073/pnas.1508436113.",
+          "[9] C. M. Sylvester et al., ‘Functional network dysfunction in anxiety and anxiety disorders’, Trends Neurosci., vol. 35, no. 9, pp. 527–535, Sep. 2012, doi: 10.1016/j.tins.2012.04.012.",
+          "[10] F. Li et al., ‘Intrinsic Brain Abnormalities in Attention Deficit Hyperactivity Disorder: A Resting-State Functional MR Imaging Study’, Radiology, vol. 272, no. 2, pp. 514–523, Aug. 2014, doi: 10.1148/radiol.14131622.",
+          "[11] B. Park, J. Hong, S.-H. Lee, and H. Park, ‘Functional Connectivity of Child and Adolescent Attention Deficit Hyperactivity Disorder Patients: Correlation with IQ’, Front. Hum. Neurosci., vol. 10, Nov. 2016, doi: 10.3389/fnhum.2016.00565.",
+          "[12] I. Boehm et al., ‘Increased resting state functional connectivity in the fronto-parietal and default mode network in anorexia nervosa’, Front. Behav. Neurosci., vol. 8, Oct. 2014, doi: 10.3389/fnbeh.2014.00346.",
+          "[13] B. Biswal, F. Z. Yetkin, V. M. Haughton, and J. S. Hyde, ‘Functional connectivity in the motor cortex of resting human brain using echo-planar MRI’, Magn. Reson. Med., vol. 34, no. 4, pp. 537–541, Oct. 1995, doi: 10.1002/mrm.1910340409.",
+          "[14] M. W. Cole, S. Pathak, and W. Schneider, ‘Identifying the brain’s most globally connected regions’, NeuroImage, vol. 49, no. 4, pp. 3132–3148, Feb. 2010, doi: 10.1016/j.neuroimage.2009.11.001.",
+          "[15] J. D. Power, B. L. Schlaggar, C. N. Lessov-Schlaggar, and S. E. Petersen, ‘Evidence for hubs in human functional brain networks’, Neuron, vol. 79, no. 4, pp. 798–813, Aug. 2013, doi: 10.1016/j.neuron.2013.07.035.",
+          "[16] T. Ito et al., ‘Cognitive task information is transferred between brain regions via resting-state network topology’, Nat. Commun., vol. 8, no. 1, p. 1027, Oct. 2017, doi: 10.1038/s41467-017-01000-w.",
+          "[17] N. L. Balderston et al., ‘Threat of shock increases excitability and connectivity of the intraparietal sulcus’, eLife, vol. 6, p. e23608, May 2017, doi: 10.7554/eLife.23608.",
+          "[18] X. Wei et al., ‘Altered Resting-State Connectivity in College Students with Nonclinical Depressive Symptoms’, PLoS ONE, vol. 9, no. 12, p. e114603, Dec. 2014, doi: 10.1371/journal.pone.0114603.",
+          "[19] J. W. Murrough et al., ‘Reduced global functional connectivity of the medial prefrontal cortex in major depressive disorder: Global Connectivity in MDD’, Hum. Brain Mapp., vol. 37, no. 9, pp. 3214–3223, Sep. 2016, doi: 10.1002/hbm.23235.",
+          "[20] A. T. Drysdale et al., ‘Resting-state connectivity biomarkers define neurophysiological subtypes of depression’, Nat. Med., vol. 23, no. 1, pp. 28–38, Jan. 2017, doi: 10.1038/nm.4246.",
+          "[21] S. J. Banks, K. T. Eddy, M. Angstadt, P. J. Nathan, and K. L. Phan, ‘Amygdala–frontal connectivity during emotion regulation’, Soc. Cogn. Affect. Neurosci., vol. 2, no. 4, pp. 303–312, Dec. 2007, doi: 10.1093/scan/nsm029.",
+          "[22] C. G. Abdallah et al., ‘Ketamine Treatment and Global Brain Connectivity in Major Depression’,   [1] Cole, J. C., Rabin, A. S., Smith, T. L., & Kaufman, A. S. (2004). Development and validation of a Rasch-derived CES-D short form. Psychological Assessment, 16, 360–372.",
+          "[23] Carleton, R. N., Thibodeau, M. A., Teale, M. J. N., Welch, P. G., Abrams, M. P., Robinson, T., & Asmundson, G. J. G. (2013). The Center for Epidemiologic Studies Depression Scale: A review with a theoretical and empirical examination of item content and factor structure. PloS ONE, 8, e58067. <a href=\"https://doi.org/10.1371/journal.pone.0058067\" target=\"_blank\">https://doi.org/10.1371/journal.pone.0058067</a>.",
+          "[24] Cattell, R. B., & Horn, J. L. (1978). A check on the theory of fluid and crystallized intelligence with description of new subtest designs. Journal of Educational Measurement, 15, 139–164.",
+          "[25] Dumontheil, I., Thompson, R., & Duncan, J. (2011). Assembly and use of new task rules in fronto-parietal cortex. Journal of Cognitive Neuroscience, 23, 168–182.",
+          "[26] Bilker, W. B., Hansen, J. A., Brensinger, C. M., Richard, J., Gur, R. E., & Gur, R. C. (2012). Development of abbreviated nine-item forms of the Raven’s standard progressive matrices test. Assessment, 19, 354–369.",
+          "[27] Glasser, M. F., Sotiropoulos, S. N., Wilson, J. A., Coalson, T. S., Fischl, B., Andersson, Jenkinson, M. (2013). The minimal preprocessing pipelines for the Human Connectome Project. NeuroImage, 80, 105–124. <a href=\"https://doi.org/10.1016/j.neuroimage.2013.04.127\" target=\"_blank\">https://doi.org/10.1016/j.neuroimage.2013.04.127</a>",
+          "[28] Spronk, M., Ji, J. L., Kulkarni, K., Repovs, G., Anticevic, A., & Cole, M. W. (2017). Mapping the human brain’s cortical-subcortical functional network organization. bioRxiv 206292.",
+          "[29] Gordon, E. M., Laumann, T. O., Adeyemo, B., Huckins, J. F., Kelley, W. M., & Petersen, S. E. (2016). Generation and evaluation of a cortical area parcellation from resting-state correlations. Cerebral Cortex, 26, 288–303. <a href=\"https://doi.org/10.1093/cercor/bhu239\" target=\"_blank\">https://doi.org/10.1093/cercor/bhu239</a>",
+          "[30] Power, J. D., Cohen, A. L., Nelson, S. M., Wig, G. S., Barnes, K. A., Church, J. A., .Petersen, S. E. (2011). Functional network organization of the human brain. Neuron, 72, 665–678. <a href=\"https://doi.org/10.1016/j.neuron.2011.09.006\" target=\"_blank\">https://doi.org/10.1016/j.neuron.2011.09.006</a>",
+          "[31] Yeo, B. T. T., Krienen, F. M., Sepulcre, J., Sabuncu, M. R., Lashkari, D., Hollinshead, M.,Buckner, R. L. (2011). The organization of the human cerebral cortex estimated by intrinsic functional connectivity. Journal of Neurophysiology, 106, 1125–1165. <a href=\"https://doi.org/10.1152/jn.00338.2011\" target=\"_blank\">https://doi.org/10.1152/jn.00338.2011</a>",
+          "[32] Neuropsychopharmacology, vol. 42, no. 6, pp. 1210–1219, May 2017, doi: 10.1038/npp.2016.186.",
+          "[33] P. F. Saltiel and D. I. Silvershein, “Major depressive disorder: mechanism-based prescribing for personalized medicine,” Neuropsychiatr. Dis. Treat., vol. 11, pp. 875–888, 2015, doi: 10.2147/NDT.S73261.",
+          "[34] M. aan het Rot, S. J. Mathew, and D. S. Charney, “Neurobiological mechanisms in major depressive disorder,” Can. Med. Assoc. J., vol. 180, no. 3, pp. 305–313, Feb. 2009, doi: 10.1503/cmaj.080697.",
+          "[35] P. Belujon and A. A. Grace, “Dopamine System Dysregulation in Major Depressive Disorders,” Int. J. Neuropsychopharmacol., vol. 20, no. 12, pp. 1036–1046, Dec. 2017, doi: 10.1093/ijnp/pyx056.",
+          "[36] C. Moret and M. Briley, “The importance of norepinephrine in depression,” Neuropsychiatr. Dis. Treat., vol. 7, no. Suppl 1, pp. 9–13, 2011, doi: 10.2147/NDT.S19619.",
+          "[37] M. W. Cole and W. Schneider, ‘The cognitive control network: Integrated cortical regions with dissociable functions’, NeuroImage, vol. 37, no. 1, pp. 343–360, Aug. 2007, doi: 10.1016/j.neuroimage.2007.03.071.",
+          "[38] W. Schneider and J. M. Chein, ‘Controlled & automatic processing: behavior, theory, and biological mechanisms’, Cogn. Sci., vol. 27, no. 3, pp. 525–559, May 2003, doi: 10.1207/s15516709cog2703_8.",
+          "[39] D. H. Schultz et al., ‘Global connectivity of the frontoparietal cognitive control network is related to depression symptoms in the general population’, Netw. Neurosci. Camb. Mass, vol. 3, no. 1, pp. 107–123, 2019, doi: 10.1162/netn_a_00056.",
+          "[40] T. Ito et al., ‘Cognitive task information is transferred between brain regions via resting-state network topology’, Nat. Commun., vol. 8, no. 1, p. 1027, Oct. 2017, doi: 10.1038/s41467-017-01000-w.",
+          "[41] J. D. Power, B. L. Schlaggar, C. N. Lessov-Schlaggar, and S. E. Petersen, ‘Evidence for hubs in human functional brain networks’, Neuron, vol. 79, no. 4, pp. 798–813, Aug. 2013, doi: 10.1016/j.neuron.2013.07.035.",
+          "[42] M. W. Cole, S. Pathak, and W. Schneider, ‘Identifying the brain’s most globally connected regions’, NeuroImage, vol. 49, no. 4, pp. 3132–3148, Feb. 2010, doi: 10.1016/j.neuroimage.2009.11.001.",
+          "[43] R. L. Buckner et al., ‘Cortical Hubs Revealed by Intrinsic Functional Connectivity: Mapping, Assessment of Stability, and Relation to Alzheimer’s Disease’, J. Neurosci., vol. 29, no. 6, pp. 1860–1873, Feb. 2009, doi: 10.1523/JNEUROSCI.5062-08.2009.",
+          "[44] X. Liang, Q. Zou, Y. He, and Y. Yang, ‘Coupling of functional connectivity and regional cerebral blood flow reveals a physiological basis for network hubs of the human brain’, Proc. Natl. Acad. Sci., vol. 110, no. 5, pp. 1929–1934, Jan. 2013, doi: 10.1073/pnas.1214900110.",
+          "[45] J. Sepulcre, H. Liu, T. Talukdar, I. Martincorena, B. T. T. Yeo, and R. L. Buckner, ‘The Organization of Local and Distant Functional Connectivity in the Human Brain’, PLoS Comput. Biol., vol. 6, no. 6, p. e1000808, Jun. 2010, doi: 10.1371/journal.pcbi.1000808.",
+          "[46] Hamilton, J. P., Furman, D. J., Chang, C., Thomason, M. E., Dennis, E., & Gotlib, I. H. (2011). Default-mode and task-positive network activity in major depressive disorder: Implications for adaptive and maladaptive rumination.",
+          "[47] Sheline, Y. I., Barch, D. M., Price, J. L., Rundle, M. M., Vaishnavi, S. N., Snyder, A. Z., . . . Raichle, M. E. (2009)."
+        ]
+      },
+      "article10": {
+        "articleNo": "10",
+        "noofreferences": "9",
+        "references": [
+          "[1] Ahmad, O. F., Ghosh, P., Stanley, C., Karp, B., Hallett, M., Lungu, C., and Alter, K. (2018). Electromyographic and joint kinematic patterns in runner’s dystonia. Toxins, 10(4), 166.",
+          "[2] Bates, T. J., Fergason, J. R., and Pierrie, S. N. (2020). Technological ad- vances in prosthesis design and rehabilitation following upper extremity limb loss. Current Reviews in Musculoskeletal Medicine, 13(4), 485- 493.",
+          "[3] Beyrouthy, T., Al Kork, S., Korbane, J. A., and Abouelela, M. (2017). EEG mind controlled smart prosthetic arm-acomprehensive study. Ad- vances in Science, Technology and Engineering Systems Journal, 2 (3): 891-899.",
+          "[4] Farnsworth, B. D., Triolo, R. J., and Young, D. J. (2008). Wireless implantable EMG sensing microsystem (pp. 1245-1248).IEEE.",
+          "[5] Jun-Uk Chu, Member, IEEE, Inhyuk Moon,” A Supervised Feature- Projection-Based Real-Time EMG Pattern Recognition for Multifunction Myoelectric Hand Control 44, IEEE/ASME Transactions on Mechatron- ics, vol. 12, no. 3, June 2007, p. 282-290",
+          "[6] Kathryn Ziegler-Graham, PhD, et al. “Estimating the Prevalence of Limb Loss in the United States - 2005 to 2050,” Archives of Physical Medicine and Rehabilitation 89 (2008), p. 422-429.",
+          "[7] Kim, K. T., Park, S., Lim, T. H., and Lee, S. J. (2021). Upper-Limb Electromyogram Classification of Reaching-to-Grasping Tasks Based on Convolutional Neural Networks for Control of a Prosthetic Hand. Frontiers in Neuroscience, 15.",
+          "[8] Mark L. Edwards, Olson, D. A. and DeRuyter, F., (2002). Chapter 18 - Lower Limb Prosthetics. In Clinician’s guide to assistive technology. Mosby. ",
+          "[9] McDonald, C. L., Westcott-McCoy, S., Weaver, M. R., Haagsma, J., and Kartin, D. (2020). undefined. Prosthetics and Orthotics International, 45(2), 105-114. https://doi.org/10.1177/0309364620972258"
+        ]
+      }
+    }
+  }

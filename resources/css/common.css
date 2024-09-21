@@ -1,0 +1,440 @@
+/*=============== GOOGLE FONTS ===============*/
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=New+Amsterdam&family=Patrick+Hand&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+/*=============== VARIABLES CSS ===============*/
+:root {
+  --header-height: 3.5rem;
+
+  /*========== Colors ==========*/
+  --main-color: #950a55;
+  --white-color: #fff;
+
+  /*========== Font and typography ==========*/
+  --body-font: ;
+  --normal-font-size: .938rem;
+
+  /*========== Font weight ==========*/
+  --font-semi-bold: 600;
+
+  /*========== z index ==========*/
+  --z-fixed: 100;
+}
+
+/*========== Responsive typography ==========*/
+@media screen and (min-width: 1024px) {
+  :root {
+    --normal-font-size: 1rem;
+  }
+}
+html{
+  scroll-behavior: smooth;
+}
+/*=============== BASE ===============*/
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: var(--normal-font-size);
+}
+ul {
+  list-style: none;  
+}
+a {
+  text-decoration: none;
+}
+section.body{
+  background: #880094;
+  background: linear-gradient(90deg, rgba(136,0,148,1) 0%, rgba(149,10,85,1) 100%);
+  padding: 2%;
+}
+.body-content{
+  background: #D9D9D9;
+  padding: 4%;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title .title-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title h2{
+  color: #950a55;
+  font-size: 30px;
+  text-align: center;
+  width: 500px;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.title p{
+  font-size: 22px;
+  color: #950a55;
+  text-align: center;
+}
+.title hr{
+  width: 150px;
+  border: 1px solid #950a55;
+  height: fit-content;
+}
+@media only screen and (max-width: 580px){
+  .title hr{
+      display: none;
+  }
+}
+@media only screen and (max-width: 1004px){
+    .title h2{
+        font-size: 25px;
+        width: 400px;
+    }
+}
+@media only screen and (max-width: 900px){
+    .title h2{
+        font-size: 20px;
+        width: 350px;
+    }
+    .section{
+        padding: 80px;
+    }
+}
+@media only screen and (max-width: 810px){
+    .section{
+        padding: 50px;
+    }
+}
+@media only screen and (max-width: 750px){
+    .section{
+        padding: 30px;
+    }
+    .title hr{
+        width: 100px;
+    }
+}
+@media only screen and (max-width: 680px){
+    .title hr{
+        width: 80px;
+    }
+}
+
+/* --===================== Start Header ======================-- */
+.container {
+  max-width: 1120px;
+  margin-inline: 1.5rem;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: rgb(149,10,85);
+  background: linear-gradient(90deg, rgba(149,10,85,1) 0%, rgba(136,0,148,1) 100%);
+  box-shadow: 0 2px 16px hsla(220, 32%, 8%, .3);
+  z-index: var(--z-fixed);
+}
+
+.nav {
+  height: var(--header-height);
+  width: 95%;
+}
+
+.nav__logo, 
+.nav__burger, 
+.nav__close {
+  color: var(--white-color);
+}
+
+.nav__data {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav__logo {
+  display: inline-flex;
+  align-items: center;
+  column-gap: .25rem;
+  font-weight: var(--font-semi-bold);
+   
+}
+
+.nav__logo i {
+  font-weight: initial;
+  font-size: 1.25rem;
+}
+
+.nav__toggle {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+
+.nav__burger, 
+.nav__close {
+  position: absolute;
+  width: max-content;
+  height: max-content;
+  inset: 0;
+  margin: auto;
+  font-size: 1.25rem;
+  cursor: pointer;
+  transition: opacity .1s, transform .4s;
+}
+
+.nav__close {
+  opacity: 0;
+}
+
+@media screen and (max-width: 1000px) {
+  .nav__menu {
+    position: absolute;
+    left: 0;
+    top: 2.5rem;
+    width: 100%;
+    height: calc(100vh - 3.5rem);
+    overflow: auto;
+    pointer-events: none;
+    opacity: 0;
+    transition: top .4s, opacity .3s;
+  }
+  .nav__menu::-webkit-scrollbar {
+    width: 0;
+  }
+  .nav__list {
+    background-color: var(--main-color);
+    padding-top: 1rem;
+  }
+}
+
+.nav__link {
+  color: var(--white-color);
+  font-weight: var(--font-semi-bold);
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: background-color .3s;
+}
+
+.nav__link:hover {
+  background-color: var(--main-color-light);
+}
+
+.show-menu {
+  opacity: 1;
+  top: 3.5rem;
+  pointer-events: initial;
+}
+
+.show-icon .nav__burger {
+  opacity: 0;
+  transform: rotate(90deg);
+}
+.show-icon .nav__close {
+  opacity: 1;
+  transform: rotate(90deg);
+}
+
+@media screen and (max-width: 340px) {
+  .container {
+    margin-inline: 1rem;
+  }
+
+  .nav__link {
+    padding-inline: 1rem;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .container {
+    margin-inline: auto;
+  }
+
+  .nav {
+    height: calc(var(--header-height) + 2rem);
+    display: flex;
+    justify-content: space-between;
+  }
+  .nav__toggle {
+    display: none;
+  }
+  .nav__list {
+    height: 100%;
+    display: flex;
+    column-gap: 3rem;
+  }
+  .nav__link {
+    height: 100%;
+    padding: 0;
+    justify-content: initial;
+    column-gap: .25rem;
+  }
+  .nav__link:hover {
+    background-color: transparent;
+  }
+
+}
+/* --===================== End Header ======================-- */
+.hero-section{
+  padding: 30px;
+  padding-top: 100px;
+  background: rgb(97,6,55);
+  background: linear-gradient(90deg, rgba(97,6,55,1) 0%, rgba(88,0,96,1) 100%);
+  width: 100%;
+}
+.hero-section h1{
+  color: #fff;
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 5px;
+  font-family: 'Ubuntu', sans-serif;
+}
+.hero-section h3{
+  color: #fff;
+  text-align: center;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+.hero-section p{
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  max-width: 800px;
+  margin: auto;
+}
+/* --===================== Start Footer ======================-- */
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgb(60,4,34);
+    background: linear-gradient(90deg, rgba(60,4,34,1) 0%, rgba(54,0,59,1) 100%);
+}
+footer h2{
+    margin-top: 30px;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1.5px solid #fff;
+    margin-bottom: 20px;
+    color: #fff;
+}
+footer .sitemap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.sitemap a{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 800;
+}
+footer .footer-devided{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 65%;
+    margin-top: 20px;
+    height: 100%;
+}
+.footer-devided .footer-left{
+    border-right: 1.4px solid #fff;
+}
+.footer-devided .footer-left, .footer-devided .footer-right{
+    width: 50%;
+    padding: 20px;
+}
+.footer-devided .footer-left h3{
+    font-size: 25px;
+    margin-bottom: 15px;
+    color: #fff;
+}
+.footer-left p{
+    color: #fff;
+}
+.footer-right{
+    display: flex;
+    flex-direction: column;
+}
+.footer-right .footer-links{
+    gap: 15px;
+}
+.footer-right .footer-links a.contact{
+    color: #fff;
+    font-size: 19px;
+}
+a.contact i{
+    margin-right: 7px;
+}
+.footer-right .social-icons{
+    display: flex;
+    gap: 15px;
+}
+.social-icons .icon{
+    background: #fff;
+    color: #000;
+    border-radius: 50%;
+    transition: all .3s ease-in-out;
+    margin-top: 15px;
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.social-icons .icon:hover{
+    background: #950a55;
+    color: #fff;
+}
+footer .developers{
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+    color: #fff;
+    background: #000;
+    text-align: center;
+    margin-top: 20px;
+}
+.developers a{
+    color: #fff;
+    text-decoration: underline;
+}
+@media only screen and (max-width: 915px){
+    .footer-devided{
+        flex-direction: column;
+        width: 100%;
+    }
+    .footer-devided .footer-left, .footer-devided .footer-right{
+        width: 100%;
+        text-align: center;
+    }
+    .footer-left{
+        border: none;
+        border-bottom: 1.4px solid #fff;
+    }
+    .footer-right .social-icons{
+        justify-content: center;
+    }
+}
+/* --===================== End Footer ======================-- */

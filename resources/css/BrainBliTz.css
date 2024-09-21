@@ -1,0 +1,590 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.competition-hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 70px;
+}
+.competition-hero img{
+    width: 160px;
+    border-radius: 20px;
+    margin-right: 15px;
+}
+.competition-hero-text h1{
+    font-size: 45px;
+    color: #050D3B;
+    margin-bottom: 10px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.competition-hero-text p{
+    color: #050D3B;
+    font-size: 20px;
+}
+.first-section{
+    display: flex;
+    gap: 20px;
+}
+.first-section .participants{
+    width: 90%;
+    background: purple;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+    padding-top: 20px;
+}
+.first-section .participants .title h2{
+    color: #fff;
+}
+.first-section .participants .title hr{
+    border-color: #fff;
+}
+.first-section .participants ul{
+    list-style: circle;
+    padding: 20px;
+    margin: 20px;
+}
+.first-section .participants ul li{
+    color: #fff;
+    font-size: 19px;
+}
+.first-section .participants ul hr{
+    border: 1.5px solid #fff;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.first-section .title{
+    margin-top: 20px;
+}
+.first-section .title h2{
+    width: 360px;
+    font-size: 25px;
+}
+.first-section .title hr{
+    width: 100px;
+}
+.why{
+    margin-top: 70px;
+
+}
+.why .title{
+    margin-bottom: 30px;
+}
+.why .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .why .column {
+    padding: 1em;
+  }
+  .why .card {
+    padding: 3.1em 1.25em;
+    text-align: center;
+    background: linear-gradient(0deg, #950a55 10px, transparent 10px);
+    background-repeat: no-repeat;
+    background-position: 0 0.62em;
+    box-shadow: 0 0 2.5em rgba(0, 0, 0, 0.15);
+    border-radius: 0.5em;
+    transition: 0.5s;
+    cursor: pointer;
+  }
+  .why .card .icon {
+    font-size: 2.5em;
+    height: 2em;
+    width: 2em;
+    margin: auto;
+    background-color: #950a55;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    color: #ffffff;
+  }
+  .why .icon:before {
+    position: absolute;
+    content: "";
+    height: 1.5em;
+    width: 1.5em;
+    border: 0.12em solid #950a55;
+    border-radius: 50%;
+    transition: 0.5s;
+  }
+  .why .card h3 {
+    font-size: 1.3em;
+    margin: 1em 0 1.4em 0;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    color: #070024;
+  }
+  .why .card p {
+    line-height: 2em;
+    color: #625a71;
+  }
+  .why .card:hover {
+    background-position: 0;
+  }
+  .why .card:hover .icon:before {
+    height: 2.25em;
+    width: 2.25em;
+  }
+  @media screen and (min-width: 768px) {
+    .why  {
+      padding: 1em 7em;
+    }
+  }
+  @media screen and (min-width: 992px) {
+    .why  {
+      padding: 1em;
+    }
+    .why .card {
+      padding: 5em 2em;
+    }
+    .why .column {
+      flex: 0 0 33.33%;
+      max-width: 33.33%;
+      padding: 0 1em;
+    }
+  }
+.second-section .title{
+    margin-top: 70px;
+}
+.second-section-content{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    align-items: center;
+}
+.second-section-content .card{
+    padding: 20px;
+}
+.second-section-content .card:first-child{
+    border-right: 3px solid #000;
+}
+.second-section-content .card h3{
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 28px;
+    margin-bottom: 15px;
+    background: #950a55;
+    color: #fff;
+}
+.second-section-content .card p{
+    padding: 25px;
+    border-radius: 15px;
+    font-size: 20px;
+    background: purple;
+    color: #fff;
+}
+.second-section-content .card:first-child h3{
+    background: purple;
+}
+.second-section-content .card:first-child p{
+    background: #950a55;
+}
+.main {
+	width: 100%;
+	height: auto;
+	display: grid;
+	place-items: center;
+	padding: 50px 0;
+    margin-top: 30px;
+}
+.timeline-container {
+	width: 70%;
+	height: auto;
+	margin: auto 0;
+	position: relative;
+}
+.timeline-container ul {
+	list-style: none;
+}
+.timeline-container ul::after {
+	content: " ";
+	position: absolute;
+	width: 2px;
+	height: 100%;
+	left: 50%;
+	top: 0;
+	transform: translateX(-50%);
+    background: #880094;
+    background: linear-gradient(90deg, rgba(136,0,148,1) 0%, rgba(149,10,85,1) 100%);}
+.timeline-container ul li {
+	width: 50%;
+	height: auto;
+	padding: 15px 20px;
+	background-color: #950a55;
+	border-radius: 8px;
+	box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.218);
+	position: relative;
+	margin-bottom: 30px;
+	z-index: 99;
+}
+.timeline-container ul li:nth-child(even){
+    background: purple;
+}
+.timeline-container ul li:nth-child(6) {
+	margin-bottom: 0;
+}
+.timeline-container ul li .circle {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: #e100ff7a;
+	top: 0;
+	display: grid;
+	place-items: center;
+}
+.circle::after{
+	content: ' ';
+	width: 12px;
+	height: 12px;
+	background-color: #7f00ff;
+	border-radius: 50%;
+}
+ul li:nth-child(odd) .circle {
+	transform: translate(50%, -50%);
+	right: -30px;
+}
+ul li:nth-child(even) .circle {
+	transform: translate(-50%, -50%);
+	left: -30px;
+}
+ul li .date {
+	position: absolute;
+	width: 130px;
+	height: 33px;
+    background: #880094;
+    background: linear-gradient(90deg, rgba(136,0,148,1) 0%, rgba(149,10,85,1) 100%);	border-radius: 15px;
+	top: -45px;
+	display: grid;
+	place-items: center;
+	color: #fff;
+	font-size: 13px;
+	box-shadow: 1px 2px 12px rgba(0, 0, 0, 0.318);
+}
+.timeline-container ul li:nth-child(odd) {
+	float: left;
+	clear: right;
+	text-align: right;
+	transform: translateX(-30px);
+}
+ul li:nth-child(odd) .date {
+	right: 20px;
+}
+.timeline-container ul li:nth-child(even) {
+	float: right;
+	clear: left;
+	transform: translateX(30px);
+}
+ul li .heading {
+	font-size: 17px;
+	color: #fff;
+}
+
+
+
+@media only screen and (min-width:798px) and (max-width: 1100px) {
+	.timeline-container{
+		width: 80%;
+	}
+}
+
+@media only screen and (max-width: 798px) {
+	.timeline-container{
+		width: 70%;
+		transform: translateX(20px);
+	}
+	.timeline-container ul::after{
+		left: -40px;
+	}
+	.timeline-container ul li {
+		width: 100%;
+		float: none;
+		clear: none;
+		margin-bottom: 80px;
+	}
+	.timeline-container ul li .circle{
+		left: -40px;
+		transform: translate(-50%, -50%);
+	}
+	.timeline-container ul li .date{
+		left: 20px;
+	}
+	.timeline-container ul li:nth-child(odd) {
+		transform: translateX(0px);
+		text-align: left;
+	}
+	.timeline-container ul li:nth-child(even) {
+		transform: translateX(0px);
+	}
+}
+
+@media only screen and (max-width: 550px) {
+	.timeline-container{
+		width: 80%;
+	}
+	.timeline-container ul::after{
+		left: -20px;
+	}
+	.timeline-container ul li .circle{
+		left: -20px;
+	}
+}
+.fourth-section h3{
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.fourth-section .cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.fourth-section .cards .card{
+    padding: 15px;
+    color: #fff;
+    background: #950a55;
+    border-radius: 10px;
+    font-size: 20px;
+    margin: 10px;
+}
+.fourth-section .cards .card:nth-child(even){
+    background: purple;
+}
+.fourth-section a{
+    background: #050D3B;
+    border: 3px solid #050D3B;
+    padding: 15px;
+    color: #fff;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+    transition: .3s ease-in-out;
+    width: 83%;
+}
+.fourth-section a:hover{
+    background: none;
+    color: #050D3B;
+}
+.fifth-section .title{
+    margin-top: 70px;
+}
+.fifth-section h3.section-heading{
+    display: block;
+    margin: auto;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+    max-width: 750px;
+
+}
+.fifth-section .cards{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.fifth-section .cards .row{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.fifth-section .cards .row:first-child{
+    margin-bottom: 20px;
+}
+.fifth-section .cards .card{
+    padding: 15px;
+    width: 500px;
+    border-radius: 20px;
+    background: purple;
+    display: flex;
+    align-items: center;
+}
+
+.fifth-section .cards .card:first-child{
+    background: #950a55;
+}
+.fifth-section .cards .card h3{
+    font-size: 40px;
+    color: #fff;
+    border-right: 2px solid #fff;
+    padding-right: 15px;
+}
+.fifth-section .cards .card p{
+    font-size: 19px;
+    color: #fff;
+    padding-left: 15px;
+}
+.fifth-section p.warning{
+    color: #c02525;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+}
+.competition{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-radius: 20px;
+    background: #050D3B;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+  }
+  .competition .competition-txt{
+    color: #fff;
+  }
+  .competition-txt h2{
+    font-size: 35px;
+    margin-bottom: 15px;
+  }
+  .competition-txt p{
+    font-size: 22px;
+    margin-bottom: 30px;
+  }
+  .competition-txt a{
+    background: #fff;
+    color: #050D3B;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    transition: .3s ease-in-out;
+    border: 2px solid #fff;
+  }
+  .competition-txt a:hover{
+    color: #050D3B;
+    background: none;
+    color: #fff;
+  }
+  .competition .competition-img img{
+    width: 250px;
+  }
+  @media only screen and (max-width: 1130px){
+    .first-section{
+        flex-direction: column;
+    }
+  }
+  @media only screen and (max-width: 920px){
+    .competition-hero{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+    .competition-hero h1, .competition-hero p{
+        text-align: center;
+    }
+  }
+  @media only screen and (max-width: 850px){
+    .second-section-content{
+        flex-direction: column;
+    }
+    .second-section-content .card:first-child{
+        border: none;
+    }
+  }
+  @media only screen and (max-width: 1100px) {
+    .fifth-section .cards .row{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+@media only screen and (max-width: 560px) {
+    .fifth-section .cards .row .card{
+        width: 90%;
+    }
+    .first-section{
+        justify-content: center;
+        align-items: center;
+    }
+    .first-section .card{
+        width: 90%;
+    }
+}
+@media only screen and (min-width:798px) and (max-width: 1100px) {
+	.timeline-container{
+		width: 80%;
+	}
+}
+
+@media only screen and (max-width: 798px) {
+	.timeline-container{
+		width: 70%;
+		transform: translateX(20px);
+	}
+	.timeline-container ul::after{
+		left: -40px;
+	}
+	.timeline-container ul li {
+		width: 100%;
+		float: none;
+		clear: none;
+		margin-bottom: 80px;
+	}
+	.timeline-container ul li .circle{
+		left: -40px;
+		transform: translate(-50%, -50%);
+	}
+	.timeline-container ul li .date{
+		left: 20px;
+	}
+	.timeline-container ul li:nth-child(odd) {
+		transform: translateX(0px);
+		text-align: left;
+	}
+	.timeline-container ul li:nth-child(even) {
+		transform: translateX(0px);
+	}
+}
+
+@media only screen and (max-width: 550px) {
+	.timeline-container{
+		width: 80%;
+	}
+	.timeline-container ul::after{
+		left: -20px;
+	}
+	.timeline-container ul li .circle{
+		left: -20px;
+	}
+}
+  @media only screen and (max-width: 480px){
+    .competition-txt h2{
+      font-size: 30px;
+    }
+    .competition-txt p{
+      font-size: 23px;
+    }
+  }
+  @media only screen and (max-width: 995px){
+    .competition{
+      flex-direction: column;
+    }
+    .competition-txt h2, .competition-txt p{
+      text-align: center;
+    }
+    .competition-txt a{
+      display: block;
+      margin: auto;
+      text-align: center;
+      padding: 15px;
+    }
+  }
